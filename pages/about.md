@@ -8,20 +8,11 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+**About the Exhibit**
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+This digital exhibit is centered on the "Game of Robinson Crusoe," a card game published by the game company Parker Brothers in 1895. According to the 
 
-## About the Collection
+A copy of the game is located in the [Elizabeth Nesbitt Collection](https://pitt.libguides.com/Nesbitt) at the University of Pittsburgh Library Archives and Special Collections section. This copy was the source of the digital image of the game pieces in this exhibit. The digitization and post-digitization editing was done by [Francis Quina](mailto:fmq1@pitt.edu), as part of building this exhibit.
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The game is based on the novel _Robinson Crusoe_ written by the English author Daniel Defoe, which was first published in 1719. The 1895-1896 edition of the [_Illustrated Catalogue of Parker Brothers’ Games,_](https://museumofplay.access.preservica.com/uncategorized/IO_df163fef-2f5c-4911-bc4a-bc213af5f00a/) lists the game’s retail price at 10 cents. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
